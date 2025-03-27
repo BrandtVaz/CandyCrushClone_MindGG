@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4294959d6b5ba9d4f81aaba204a3c0a6, type: 3}
+  m_Name: GameConfig - Level3
+  m_EditorClassIdentifier: 
+  rows: 8
+  columns: 8
+  tileBackgroundPrefab: {fileID: 7980779992589577724, guid: 9cb09f00a5c514347b42e4849ab286f4, type: 3}
+  candyPrefabs:
+  - {fileID: 6643569049274300253, guid: 6d2618b73de68114481d1a368d2ef4c7, type: 3}
+  - {fileID: 1827009971959092745, guid: 812c00d1b78633c4e94332ec20fb4c16, type: 3}
+  - {fileID: 4188990319185235033, guid: f2c53329aad432d4d877e5c44289c795, type: 3}
+  - {fileID: 743148234414572150, guid: 8d5a0e583a9b84f41bae4e61a99da12d, type: 3}
+  - {fileID: 2023302406612345980, guid: e47f37763daee264d94adc2eead455fb, type: 3}
+  candySwapSpeed: 5

@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CupcakeChoco
+  - CupcakeStrawberry
+  - 'CupcakeVanilla '
+  - DonutChoco
+  - DonutStrawberry
+  - PieChoco
+  - PieStrawberry
+  - PopsicleChoco
+  - PopsicleStrawberry
+  - PopsicleVanilla
+  - PowerUp
   layers:
   - Default
   - TransparentFX

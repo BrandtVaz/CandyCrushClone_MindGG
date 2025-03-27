@@ -43,7 +43,7 @@ O objetivo do jogo é combinar três ou mais doces iguais para alcançar a pontu
 
 ## ⚙️ Desenvolvimento
 
-Durante o desenvolvimento, enfrentei diversos desafios técnicos e de design, documentados detalhadamente no arquivo Postmortem.
+Durante o desenvolvimento, enfrentei diversos desafios técnicos e de design, documentados detalhadamente no arquivo [Postmortem](https://github.com/BrandtVaz/CandyCrushClone_MindGG/blob/main/POSTMORTEM.md).
 
 Todas as soluções foram implementadas visando uma estrutura limpa, funcional e otimizada para futuras expansões.
 
